@@ -1,5 +1,4 @@
 body {
-	background-color: #e6e6e6;
 	font-family: "Optima";
 	margin: 0;
 	padding: 0;
@@ -12,10 +11,10 @@ body {
 
 .about {
 	width: 100%;
-	margin: 0 auto;
+	height: 100vh;
 	background-color: #000040;
-	overflow: hidden;
 	color: #e6e6e6;
+	position: absolute;
 }
 
 .about img {
@@ -34,7 +33,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #e6e6e6;
+    background-color: #a6a6a6;
 }
 
 li {
