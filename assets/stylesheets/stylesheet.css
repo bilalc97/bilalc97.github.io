@@ -54,6 +54,12 @@ body {
 img {
 	width: 100%;
 	height: 100%;
+	position: absolute;
+	bottom: 3vw;
+	left: 0;
+	height: auto;
+	width: 100vw;
+	z-index: -1;
 	animation-name: expandUp;
 	-webkit-animation-name: expandUp;	
 	animation-duration: 0.7s;	
